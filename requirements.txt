@@ -1,0 +1,8 @@
+pymupdf
+openai
+python-dotenv
+numpy
+scikit-learn
+fastapi
+uvicorn
+python-multipart
